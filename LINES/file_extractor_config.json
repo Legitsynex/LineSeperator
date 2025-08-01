@@ -1,0 +1,13 @@
+{
+    "last_input_folder": "",
+    "last_output_folder": "extracted",
+    "default_lines": 50000,
+    "default_threads": 4,
+    "default_watermark": true,
+    "default_file_types": [
+        ".txt",
+        ".log",
+        ".csv"
+    ],
+    "theme": "pro_dark"
+}
